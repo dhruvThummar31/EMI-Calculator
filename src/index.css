@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  font-family: "titillium web", sans-serif !important;
+  
+}
+
+h1, h2 {
+  font-family:  sans-serif;
+}
+
+button {
+  background-color: #004d8c;
+  color: white;
+}
